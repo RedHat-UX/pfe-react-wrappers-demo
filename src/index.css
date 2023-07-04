@@ -8,8 +8,11 @@ body {
   margin: 0;
   display: grid;
   place-items: center;
-  min-width: 320px;
   min-height: 100vh;
+}
+
+#card {
+  max-width: 420px; /* nice */
 }
 
 h1 {
